@@ -26,7 +26,6 @@
       "./src",
       "./test"
     ],
-    "types": ["jest", "node", "@types/jest"],
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true
   },
